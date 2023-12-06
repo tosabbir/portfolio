@@ -1,0 +1,11 @@
+.fullcard{
+    position: relative;
+}
+#adminProfilePic{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 130px;
+    width: 13%;
+    border-radius: 50%;
+
+}
